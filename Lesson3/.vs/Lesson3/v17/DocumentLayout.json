@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formaddorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formaddorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formproductadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formproductadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\forminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\forminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formclientadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formclientadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\forminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\forminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|c:\\users\\crixusjke\\downloads\\tmp_c--master\\lesson3\\lesson3\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE216D-B2AB-4506-8EC0-F974C2809983}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAddOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormAddOrder.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormAddOrder.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormAddOrder.cs",
+              "RelativeToolTip": "Lesson3\\FormAddOrder.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:48:51.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormOrders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormOrders.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormOrders.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormOrders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lesson3\\FormOrders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:28:10.302Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProduct.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProduct.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormProduct.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProduct.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lesson3\\FormProduct.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:27:55.525Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProduct.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormProduct.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProduct.cs",
+              "RelativeToolTip": "Lesson3\\FormProduct.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAnwD8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:27:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\App.config",
+              "RelativeDocumentMoniker": "Lesson3\\App.config",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\App.config",
+              "RelativeToolTip": "Lesson3\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-05T12:17:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAddOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormAddOrder.Designer.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormAddOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormAddOrder.Designer.cs",
+              "RelativeToolTip": "Lesson3\\FormAddOrder.Designer.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAawKAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:06:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormProductAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProductAdd.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormProductAdd.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProductAdd.cs",
+              "RelativeToolTip": "Lesson3\\FormProductAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:06:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAddOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormAddOrder.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormAddOrder.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormAddOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lesson3\\FormAddOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:06:36.023Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormInvoice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormInvoice.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormInvoice.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormInvoice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lesson3\\FormInvoice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:00:04.503Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormOrders.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormOrders.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormOrders.cs",
+              "RelativeToolTip": "Lesson3\\FormOrders.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwEoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:49:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProductAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProductAdd.Designer.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormProductAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormProductAdd.Designer.cs",
+              "RelativeToolTip": "Lesson3\\FormProductAdd.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:11:07.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormClientAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormClientAdd.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormClientAdd.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormClientAdd.cs",
+              "RelativeToolTip": "Lesson3\\FormClientAdd.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:47:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormMain.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormMain.cs",
+              "RelativeToolTip": "Lesson3\\FormMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:58:27.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormInvoice.cs",
+              "RelativeDocumentMoniker": "Lesson3\\FormInvoice.cs",
+              "ToolTip": "C:\\Users\\Crixusjke\\Downloads\\tmp_C--master\\Lesson3\\Lesson3\\FormInvoice.cs",
+              "RelativeToolTip": "Lesson3\\FormInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:49:00.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
